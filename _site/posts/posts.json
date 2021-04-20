@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to my new blog, Aidan's Blog. I hope you enjoy \nreading what I have to say!",
+    "author": [
+      {
+        "name": "Aidan Lee",
+        "url": "https://blogsite.com/aidanlee"
+      }
+    ],
+    "date": "2021-04-19",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-19T21:06:20-04:00",
+    "input_file": {}
+  }
+]
