@@ -1,0 +1,6 @@
+---
+title: "About this blog"
+description: |
+  Here are some samples of projects I've completed throughout this semester.
+---
+

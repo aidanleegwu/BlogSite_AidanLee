@@ -1,0 +1,18 @@
+---
+title: "Juvenile Politics Sample"
+description: |
+  Here is a sample of an op-ed piece I wrote for my Juvenile Law Course. 
+author:
+  - name: Aidan Lee
+    url: https://blogsite.com/aidanlee
+date: 04-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+For this assignment, we each conducted our own independent research on the juvenile justice system. I decided to research the process of trying children as adults and the factors that influence this decision within states across the country.
+
+Here is a rough draft of my op-ed:
+
+[Juvenile Law Op-ed Rough Draft](https://docs.google.com/document/d/1oeUYDwj34OH0KPTLcFejs5-syKHvo1lgbsQjbrDALkk/edit?usp=sharing)

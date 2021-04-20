@@ -1,0 +1,22 @@
+---
+title: "Humanitarian Assitance Sample"
+description: |
+  Here is a sample of a project I created for my Humanitarian Assistance Course.
+author:
+  - name: Aidan Lee
+    url: https://blogsite.com/aidanlee
+date: 04-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+For this project, we each conducted our own independent research on the international humanitarian assistance and development community. I decided to research the barriers to education for Syrian refugees in the countries in which they have been granted asylum.
+
+Here is a sample of my work:
+
+![](images/Screen%20Shot%202021-04-19%20at%209.51.02%20AM.png)
+
+Here is a breakdown of the issue by the numbers:
+
+![](images/Screen%20Shot%202021-04-19%20at%2010.13.27%20AM.png)
